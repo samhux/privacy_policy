@@ -22,6 +22,9 @@ We have included links on this app for your use and reference. We are not respon
 
 The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
+## Parental rights/access to data
+
+No user information is collected by this app for parents to request deletion of. Children are not able to share their personal information directly from the app.
 
 ## Changes To This Privacy Policy
 
